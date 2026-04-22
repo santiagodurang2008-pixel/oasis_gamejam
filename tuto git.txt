@@ -1,0 +1,14 @@
+- git clone: es un comando para clonar o en otras palabras "descargar" un repositorio "proyecto" de GitHub.
+
+- git status: Ver status del repositorio
+
+- git add .: Subir los cambios de manera local
+
+
+- Commits: Mensajes o tags de los cambios que se suben a GitHub
+
+- git commit -m "mensaje": Las comillas se tienen que dejar, el mensaje se cambia. Para subir un comentario de los cambios
+
+- git push: sube los cambios a GitHub remoto, o sea, a la nube
+
+- git pull: trae los cambios remotos, o sea en GitHub a sus proyectos locales, o sea en sus computadores
